@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Elly and J cong
+      Elly and J cong is cute. 
     </div>
   );
 }
